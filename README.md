@@ -6,6 +6,7 @@ A lot of these Dashboards were developed from when I've been teaching the [SANS 
 
 ## Dashboards
 
+* [Microsoft 365 UAL Dashboard](/dashboards/M365%20UAL%20Dashboard.ndjson)
 * [Google Workspace Dashboard](/dashboards/GWS%20Dashboard.ndjson)
 * Google Cloud Dasboard - _Yet to be uploaded_
 * [AWS Kubernetes Dasboard](/dashboards/AWS%20K8%20Dashboard.ndjson)
