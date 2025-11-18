@@ -10,10 +10,10 @@ A lot of these Dashboards were developed from when I've been teaching the [SANS 
 
 ## Pre-ECS Dashboards (Older SOF-ELK)
 
-* [Microsoft 365 UAL Dashboard](/dashboards/Pre-ECS Dashboards/M365%20UAL%20Dashboard.ndjson)
-* [Google Workspace Dashboard](/dashboards/Pre-ECS Dashboards/GWS%20Dashboard.ndjson)
-* [Google Cloud Dasboard](/dashboards/Pre-ECS Dashboards/Google%20Cloud%20Dashboard.ndjson)
-* [AWS Kubernetes Dasboard](/dashboards/Pre-ECS Dashboards/AWS%20K8%20Dashboard.ndjson)
+* [Microsoft 365 UAL Dashboard](/dashboards/Pre-ECS%20Dashboards/M365%20UAL%20Dashboard.ndjson)
+* [Google Workspace Dashboard](/dashboards/Pre-ECS%20Dashboards/GWS%20Dashboard.ndjson)
+* [Google Cloud Dasboard](/dashboards/Pre-ECS%20Dashboards/Google%20Cloud%20Dashboard.ndjson)
+* [AWS Kubernetes Dasboard](/dashboards/Pre-ECS%20Dashboards/AWS%20K8%20Dashboard.ndjson)
 
 ## Import Details
 
