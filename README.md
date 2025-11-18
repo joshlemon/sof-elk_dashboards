@@ -15,6 +15,19 @@ A lot of these Dashboards were developed from when I've been teaching the [SANS 
 * [Google Cloud Dasboard](/dashboards/Pre-ECS%20Dashboards/Google%20Cloud%20Dashboard.ndjson)
 * [AWS Kubernetes Dasboard](/dashboards/Pre-ECS%20Dashboards/AWS%20K8%20Dashboard.ndjson)
 
-## Import Details
+## Import Instructions
 
-Yet to be completed.....stay tuned.
+### Step 1
+<img src="instructions/step1.png" alt="Step 1" width="400">
+
+### Step 2
+<img src="instructions/step2.png" alt="Step 2" width="400">
+
+### Step 3
+<img src="instructions/step3.png" alt="Step 3" width="400">
+
+### Step 4
+<img src="instructions/step4.png" alt="Step 4" width="400">
+
+### Step 5
+<img src="instructions/step5.png" alt="Step 5" width="400">
