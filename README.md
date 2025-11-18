@@ -5,10 +5,12 @@ These are a few [SOF-ELK](https://github.com/philhagen/sof-elk) Dashboards that 
 A lot of these Dashboards were developed from performing Cloud log analysis, but hopefully it will include others....as I get time to create them.
 
 ## Dashboards
+*These dasboards are for the current version of SOF-ELK using the [Elastic Common Schema (ECS)](https://www.elastic.co/guide/en/ecs/current/ecs-reference.html)*
 
 * [Microsoft 365 UAL Dashboard](/dashboards/M365%20UAL%20Dashboard.ndjson)
 
 ## Pre-ECS Dashboards (Older SOF-ELK)
+*These dasboards are for the pre-ECS version of SOF-ELK before it was upgrade to include the [Elastic Common Schema (ECS)](https://www.elastic.co/guide/en/ecs/current/ecs-reference.html).*
 
 * [Microsoft 365 UAL Dashboard](/dashboards/Pre-ECS%20Dashboards/M365%20UAL%20Dashboard.ndjson)
 * [Google Workspace Dashboard](/dashboards/Pre-ECS%20Dashboards/GWS%20Dashboard.ndjson)
