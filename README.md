@@ -7,7 +7,7 @@ A lot of these Dashboards were developed from performing Cloud log analysis, but
 ## Dashboards
 *These dasboards are for the current version of SOF-ELK using the [Elastic Common Schema (ECS)](https://www.elastic.co/guide/en/ecs/current/ecs-reference.html)*
 
-* [Microsoft 365 UAL Dashboard](/dashboards/M365%20UAL%20Dashboard.ndjson)
+* [Microsoft 365 UAL Dashboard](/dashboards%2FM365-Dashboard.ndjson)
 
 ## Pre-ECS Dashboards (Older SOF-ELK)
 *These dasboards are for the pre-ECS version of SOF-ELK before it was upgrade to include the [Elastic Common Schema (ECS)](https://www.elastic.co/guide/en/ecs/current/ecs-reference.html).*
